@@ -1,3 +1,6 @@
 [submodule "backend-cms"]
 	path = backend-cms
 	url = https://github.com/binteezyy/contentmanagementsystem.git
+[submodule "sms-landing-frontend"]
+	path = sms-landing-frontend
+	url = https://github.com/jjspscl/sms-landing-frontend.git
